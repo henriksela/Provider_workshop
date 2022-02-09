@@ -59,7 +59,7 @@ class _MyHomePageState extends State<MyHomePage> {
           ),
           BottomNavigationBarItem(
             icon: Icon(
-              Icons.add,
+              Icons.check,
             ),
             label: 'Svarsida',
           ),
